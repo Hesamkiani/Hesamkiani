@@ -42,9 +42,13 @@
 ## 🚀 Featured Projects
 
 ### 🏀 NBA Player Progress Analysis
-Exploratory data analysis of NBA player statistics across the 2023–2025 seasons, including data cleaning, merging, and visualization.
 
-[![NBA Project](https://github-readme-stats.vercel.app/api/pin/?username=Hesamkiani&repo=NBA-Player-progress-analysis&theme=tokyonight)](https://github.com/Hesamkiani/NBA-Player-progress-analysis)
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+
+An exploratory data analysis project that examines NBA player performance across the 2023–2025 seasons, using Python, Pandas, and NumPy for data cleaning, preprocessing, and statistical analysis, with Matplotlib for visualizing player performance trends and comparing seasonal statistics.
 
 🏀 NBA Live Win Probability
 
