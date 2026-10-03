@@ -24,7 +24,6 @@
 - 🤖 Interested in Machine Learning and Artificial Intelligence
 - 📊 Experienced in Python and Data Analysis
 - 🌱 Currently improving my skills in Machine Learning and software development
-- 🎯 Seeking my first professional opportunity in AI/ML
 
 ## 🛠️ Tech Stack
 
