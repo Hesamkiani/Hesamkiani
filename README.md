@@ -6,16 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Python+%7C+Data+Analysis;Building+My+Journey+in+AI" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Hesamkiani">
-    <img src="https://komarev.com/ghpvc/?username=Hesamkiani&style=flat-square&color=blue" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/Hesamkiani?tab=followers">
-    <img src="https://img.shields.io/github/followers/Hesamkiani?style=flat-square&color=blue" alt="Followers"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -73,15 +63,5 @@ dashboard to visualize how a team's chances shift as the game unfolds.
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/amirhesamkiani)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hesamkianiy123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+📧 **Email:** [hesamkianiy123@gmail.com](mailto:hesamkianiy123@gmail.com)
 
-<p align="center">
-  <i>Building, learning, and growing in AI 🚀</i>
-</p>
