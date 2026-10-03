@@ -46,9 +46,16 @@ Exploratory data analysis of NBA player statistics across the 2023–2025 season
 
 [![NBA Project](https://github-readme-stats.vercel.app/api/pin/?username=Hesamkiani&repo=NBA-Player-progress-analysis&theme=tokyonight)](https://github.com/Hesamkiani/NBA-Player-progress-analysis)
 
-### 🎓 QIAU-Guide
-An academic project focused on an intelligent university guide.
-<!-- Add your actual project repository link and technologies here -->
+🏀 NBA Live Win Probability
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-deep%20learning-orange)
+![Flask](https://img.shields.io/badge/Flask-WebSocket-black)
+
+A deep learning project that predicts live NBA win probability in real time, 
+using play-by-play data, a PyTorch neural network, and a WebSocket-powered 
+dashboard to visualize how a team's chances shift as the game unfolds.
+
 
 ## 📊 GitHub Stats
 
